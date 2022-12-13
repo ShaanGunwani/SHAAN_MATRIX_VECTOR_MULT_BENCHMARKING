@@ -68,7 +68,7 @@ int main(){
     {
         printf("Test #%d:\n", i + 1);
 
-        test_multiply_vector_matrix(
+        multiply_vector_matrix(
         matrix_input_test_case[i],
         vector_input_test_case[i],
         N,
